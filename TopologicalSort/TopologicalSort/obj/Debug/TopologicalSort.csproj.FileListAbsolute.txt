@@ -1,0 +1,10 @@
+E:\projects\c#\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.exe.config
+E:\projects\c#\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.exe
+E:\projects\c#\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.pdb
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.AssemblyReference.cache
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.Properties.Resources.resources
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.GenerateResource.cache
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.CoreCompileInputs.cache
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.exe
+E:\projects\c#\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.pdb
+E:\projects\c#\topologicalSort\TopologicalSort\obj\Debug\TopologicalSort.TopologicalSortForm.resources
